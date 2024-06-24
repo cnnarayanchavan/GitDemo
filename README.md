@@ -1,3 +1,3 @@
 # GitDemo
-*recised all git commands*
+*revised all git commands*
 Section Partation Method
