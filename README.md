@@ -18,6 +18,8 @@ Section Partation Method
 
 -  Bootstrap is a popular front-end framework orrrr collection of ready-made design components (like buttons, forms, navigation bars, etc.) and predefined styles (such as colors, typography, and layout grids) that you can easily use in your web projects.
 
-  ![image](https://github.com/cnnarayanchavan/GitDemo_rtCamp/assets/113028954/19501030-76e2-4b70-9a68-e471def09854)
+  ![image](https://github.com/cnnarayanchavan/GitDemo_rtCamp/assets/113028954/47c3c31f-075c-46b0-877b-f51bf46487c0)
+
+
 
  
