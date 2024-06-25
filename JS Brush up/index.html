@@ -6,16 +6,69 @@
     <title>Document</title>
     <link rel="jsfile" href="attached.js">
     <script> 
-        let a = 1200
-        console.log(a);
+    
+    
+        // let a = 1200
+        // console.log(a);
 
-        // variablrs = let, var, const;
-        // Datatypes 
-        // Primitive = Numbers, Boolean, Strings 
-        // Non-Primitive = Objects, Array, Class
+        // // variablrs = let, var, const;
+        // // Datatypes 
+        // // Primitive = Numbers, Boolean, Strings 
+        // // Non-Primitive = Objects, Array, Class
+
+        // //FUNCTION
+        // function myFun(){
+        //     console.log(" Hello Narayana!!");
+        // }
+
+        // //PARAMETERISED FUNCTION
+        // function myfun2(num){
+        //     console.log("My number is " + num);
+        // }
+
+        // //OBJECTS
+        // const myObj = {
+        //     name : "Narayana",
+        //     Add : "Gavane road pbn",
+        //     State : "Maharashtra",
+        //     Country : "India",
+        //     myFun3 : function mine(num) {
+        //         console.log("I am in the object" + num);
+        //     }
+        // }
+
+        // //EVENTS IN JS
+
+        //i will call my myFun2 in the event listner which will call that functixon printing my number 
+        document.addEventListener("click",function funcc(){
+            //alert("helloo");
+            confirm("Are you sure!!")
+
+            
+        })
+
+        //i wanted to take the inbuilt function 
+        document.addEventListener("click",function myfun5(){
+            confirm("Are you for real??")
+        }            
+        )
     </script>
 </head>
 <body>
-    <p>This is the brushing up program of js</p>
+    <h1>This is the brushing up program of js</h1>
+    <button id = "firstButton">Click ME</button>
+
+    <script>
+        const button = document.getElementById('firstButton');
+        console.log(button);
+    
+        function actionClick(){
+            alert("--You have clicked the button--")
+        }
+    
+        button.addEventListener("click",actionClick);
+    </script>
+  
 </body>
+
 </html>
