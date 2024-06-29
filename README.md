@@ -33,7 +33,9 @@ Section Partation Method
   ## unnderstood : Props are read-only
 
   ## prop types
-* prop types.string , objects, array ect we can have any type of properties 
+* prop types.string , objects, array ect we can have any type of properties
+
+## understanding State
 
 
 
