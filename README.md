@@ -28,7 +28,9 @@ Section Partation Method
 
 * so basically the concepts is like passing the value in the function component that we have created
 * in this concepts props means the properties that we are going to pass into the component that we are defined in the main App.js file
-* so like function parameter and passing the values for these parameter 
+* so like function parameter and passing the values for these parameter
+
+  ## unnderstood : Props are read-only 
 
 
 
