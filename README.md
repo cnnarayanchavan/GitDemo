@@ -22,7 +22,7 @@ Section Partation Method
 
   ![image](https://github.com/cnnarayanchavan/GitDemo_rtCamp/assets/113028954/47c3c31f-075c-46b0-877b-f51bf46487c0)
 
-  </hr>
+  <br/><hr/>
 
   ## Props 
 
