@@ -22,6 +22,12 @@ Section Partation Method
 
   ![image](https://github.com/cnnarayanchavan/GitDemo_rtCamp/assets/113028954/47c3c31f-075c-46b0-877b-f51bf46487c0)
 
+  ## Props 
+
+* so basically the concepts is like passing the value in the function component that we have created
+* in this concepts props means the properties that we are going to pass into the component that we are defined in the main App.js file
+* so like function parameter and passing the values for these parameter 
+
 
 
  
