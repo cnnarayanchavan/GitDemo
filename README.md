@@ -22,6 +22,8 @@ Section Partation Method
 
   ![image](https://github.com/cnnarayanchavan/GitDemo_rtCamp/assets/113028954/47c3c31f-075c-46b0-877b-f51bf46487c0)
 
+  </hr>
+
   ## Props 
 
 * so basically the concepts is like passing the value in the function component that we have created
