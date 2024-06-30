@@ -38,6 +38,12 @@ Section Partation Method
 ## understanding State
 *concepts of hooks*
 * so basically hooks are nwe addition in react new version WHICH HELP UP USE STATE AND OTHER REACT FEATURE W/O WRTING A CLASS 
-
+-- lets first revise the concept of destructuring of array in js so
+  - what we will de here we just assigning the elements in array to the another variables
+  - e.g :
+   <code>
+      let arr = [5,4,7,6];
+      let [a,b,c,d] = arr;
+   </code>
 
  
