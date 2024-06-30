@@ -36,7 +36,8 @@ Section Partation Method
 * prop types.string , objects, array ect we can have any type of properties
 
 ## understanding State
-
+*concepts of hooks*
+* so basically hooks are nwe addition in react new version WHICH HELP UP USE STATE AND OTHER REACT FEATURE W/O WRTING A CLASS 
 
 
  
