@@ -39,11 +39,22 @@ Section Partation Method
 *concepts of hooks*
 * so basically hooks are nwe addition in react new version WHICH HELP UP USE STATE AND OTHER REACT FEATURE W/O WRTING A CLASS 
 -- lets first revise the concept of destructuring of array in js so
+  
   - what we will de here we just assigning the elements in array to the another variables
   - e.g :
    <code>
       let arr = [5,4,7,6];
       let [a,b,c,d] = arr;
    </code>
+
+   - aslo we can do the cool thing by doing destrecturing of an array which is
+   - *SWAPING*
+   - E.g :
+  <code>
+      let a = 10;
+      let b = 11;
+      [a,b] = [b,a]; 
+  </code>
+  - so here we assign the value of a to b and value of b to a
 
  
